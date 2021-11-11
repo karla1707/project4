@@ -1,0 +1,101 @@
+id,street,city,snumber,postalcode,country,longitude,latitude
+1,Del Mar,Sillon,3,795 01,Philippines,20.2966257,42.5787371
+2,Grasskamp,Kousa,6,18015,Egypt,38.0818378,46.6522807
+3,Del Sol,Qinā,13,9120,Egypt,-84.39,33.75
+4,Nova,Petřvald,860,249080,Czech Republic,-70.1455805,-9.9165208
+5,Onsgard,Simeykyne,920,950-0084,Ukraine,116.3132019,50.5205623
+6,West,Sudimoro,4720,38542,Indonesia,5.8978018,43.4945737
+7,Menomonie,Nyazepetrovsk,96875,J9E,Russia,113.148534,23.2252
+8,Chive,Brongkah,36944,5039,Indonesia,-2.7586364,48.529165
+9,Sutteridge,Huangqu,674,4206,China,0.964671,45.697904
+10,Derek,Baja Mar,8640,3333,Honduras,105.7563658,20.955835
+11,Hagan,Mersa Matruh,7,1556,Egypt,22.0688549,40.6294406
+12,Kedzie,Fak Tha,1865,1556,Thailand,120.8551691,15.3098074
+13,Division,Hatsukaichi,70,5113,Japan,120.493376,16.597659
+14,Oxford,Bojonggenteng,54,70116,Indonesia,102.8773712,11.7907511
+15,Morrow,Rabat,73,64009,Malta,73.2723283,31.9069842
+16,Artisan,Ubonratana,6226,44950,Thailand,122.2058206,-8.6192014
+17,Oak,Arvika,55477,679 02,Sweden,122.2058206,-8.6192014
+18,Lukken,Orlando,89253,98910-0,United States,-54.5218074,-30.2915042
+19,Dryden,Samboan,347,4650-805,Philippines,-72.6503369,7.37823
+20,Brentwood,Guadalupe,1321,42240,Costa Rica,-72.6503369,7.37823
+21,Drewry,Hevlín,3502,42240,Czech Republic,35.5356866,8.1513421
+22,Sage,Tamaulipas,87474,51950,Mexico,-7.4868283,7.0063409
+23,Hauk,Turpay,5,6006,Peru,-97.0564451,18.8729115
+24,Atwood,Santiago de María,76,3376,El Salvador,2.302597,48.87561
+25,Summit,Čačak,20827,5940,Serbia,119.9994908,15.3098003
+26,Anhalt,La Unión,1,249295,Venezuela,-73.8720449,-14.1102622
+27,High Crossing,Sobral,4095,634300,Portugal,24.9415656,48.4018664
+28,Killdeer,Krasnyy Oktyabr’,035,368044,Russia,121.012518,14.5999366
+29,Kennedy,Sokol,914,4970,Russia,121.033482,14.563178
+30,Prairieview,Xiakouyi,39,4970-585,China,113.766805,26.438463
+31,Lien,Dulag,982,4690-300,Philippines,106.8274787,-6.1874721
+32,Iowa,Maliq,94068,98700-00,Albania,122.8845373,9.2214675
+33,Orin,Janów,0,5614,Poland,-83.342893,10.0835154
+34,Knutson,Tunguang,68,56140,China,11.0057554,45.446079
+35,Pankratz,Keta,56,2205-806,Ghana,-1.5401497,47.2550409
+36,Drewry,Jaga,0,61110,Indonesia,128.3222456,34.973149
+37,Superior,Rungis,65,SY4,France,-68.0677378,-38.8248331
+38,Mitchell,Oštarije,609,08-480,Croatia,111.594957,32.364918
+39,Dexter,Belmopan,239,3296,Belize,-64.2145666,-31.4834373
+40,Fairview,Santo Antônio de Posse,21,90000-00,Brazil,68.23801,32.68567
+41,Lake View,Saint-Malo,56963,664008,France,107.074614,-6.8734228
+42,Birchwood,Tarikolot,6629,999 CEDEX,Indonesia,122.5171185,14.1893533
+43,Rusk,Oštarije,12148,8030,Croatia,130.308899,42.24472
+44,Dakota,Zhenqian,5,64901,China,42.6645851,50.52546
+45,Hoepker,Al Ḩaffah,02,8418,Syria,21.8407341,39.3395415
+46,Tennyson,Corupá,3,57250,Brazil,19.6147046,49.8135834
+47,Sloan,Hongwansi,37003,364 71,China,112.052296,21.820325
+48,Summerview,Shar,6,A96,Kazakhstan,90.7942665,23.3567159
+49,Carpenter,Horní Čermná,6,188382,Czech Republic,118.386279,24.960385
+50,Briar Crest,Sezures,779,795 01,Portugal,22.51003,52.9148
+51,Katie,Utmānzai,0,18015,Pakistan,102.0851431,36.7146675
+52,Walton,Capinzal,41513,9120,Brazil,108.214158,22.24416
+53,Blue Bill Park,Noormarkku,6,249080,Finland,114.5943784,-3.3186067
+54,Kennedy,Tayasan,5,950-0084,Philippines,12.2573683,57.0973349
+55,Cody,Sarata,8,950-0084,Ukraine,105.6404254,20.9924634
+56,Melvin,Kanashevo,606,J9E,Russia,105.6404254,20.9924634
+57,Melody,Lidköping,6891,5039,Sweden,-64.2679738,-31.3221103
+58,Loomis,Ravānsar,87690,4206,Iran,0.768419,48.2660539
+59,Melvin,Ligang,3,3333,China,44.066667,15.933333
+60,Towne,Chernigovka,3,953 CX 2,Russia,14.8591964,56.2960315
+61,Pennsylvania,Kuripan,284,1556,Indonesia,-39.1127352,-15.6903468
+62,Schurz,Panshan,6,2800,China,-39.1127352,-15.6903468
+63,Division,Horodne,015,919 CEDEX,Ukraine,-37.6346628,-7.7480174
+64,Arrowood,Shinshiro,35,5113,Japan,0.3908219,47.8225694
+65,Towne,Sapphaya,978,70116,Thailand,113.013113,-7.9293213
+66,Eastlawn,Daying,8438,64009,China,115.7782286,-3.4795532
+67,Drewry,Zākhū,22,44950,Iraq,112.700315,-8.0976125
+68,Northridge,Mariana,8,679 02,Brazil,22.06311,53.6115
+69,Arizona,Sanxi,6445,9890-00,China,139.2562665,35.8889548
+70,Drewry,Pueblo Nuevo,44,42240,Mexico,4.8932938,44.9280296
+71,Orin,Na Chueak,23002,4162,Thailand,4.8932938,44.9280296
+72,Hagan,Jenamas,29,51950,Indonesia,4.8932938,44.9280296
+73,Petterle,Alvega,4,6006,Portugal,8.402137,49.4603474
+74,Forest Dale,Kalloní,218,3376,Greece,39.9093269,-3.5106508
+75,Farwell,Jiahe,2,5940,China,5.7569797,52.6863286
+76,Farmco,Vidago,607,249295,Portugal,-50.8198737,-1.9367459
+77,Bellgrove,Sarae,5,368044,Indonesia,3.6245097,49.5706463
+78,Dennis,Nghi Xuân,1925,4970-585,Vietnam,-50.8198737,-1.9367459
+79,Arkansas,Puncakwangi,9471,4690-300,Indonesia,3.6245097,49.5706463
+80,Chive,Hājīganj,8421,98700-0,Bangladesh,15.92527,52.25053
+81,Graedel,Atães,10,5614,Portugal,124.4891278,-9.5662977
+82,Erie,Oncativo,5868,56140,Argentina,108.739519,27.062407
+83,Toban,Anak,155,2205-806,North Korea,110.8374104,-6.8300602
+84,Bay,Hanshou,7746,61110,China,107.9917034,-7.380316
+85,Ridgeview,Ojos de Agua,0243,SY4,Honduras,116.658183,40.359722
+86,Cascade,Thị Trấn Triệu Sơn,16025,SY4,Vietnam,9.9778279,53.5472987
+87,Michigan,Barda,23098,664008,Azerbaijan,119.482942,25.200027
+88,Dunning,Xinhua,166,795 01,China,119.482942,25.200027
+89,Bellgrove,Ludvika,75760,18015,Sweden,121.227926,30.184907
+90,Southridge,Pitkyaranta,10,9120,Russia,122.106773,30.019858
+91,Warrior,Arlington,42187,950-0084,United States,21.2277415,41.0417485
+92,Grayhawk,Paris La Défense,70,5039,France,22.1364871,37.401244
+93,Pleasure,Rudky,79,4206,Ukraine,27.7949868,53.7966603
+94,Buena Vista,Colomiers,96688,4206,France,107.36785,35.332666
+95,Kensington,Naberera,25251,2800,Tanzania,119.860856,32.929568
+96,North,Cane,4355,64009,Honduras,33.5698471,46.8071439
+97,Vera,Kebili,381,679 02,Tunisia,24.7853017,52.2041343
+98,Everett,Sheshan,8,4650-805,China,37.0476194,52.9743779
+99,Ridgeview,Linshe,7452,51950,China,48.924236,54.605563
+100,Hovde,Olhos de Água,57,SY4,Portugal,123.9674831,44.275895

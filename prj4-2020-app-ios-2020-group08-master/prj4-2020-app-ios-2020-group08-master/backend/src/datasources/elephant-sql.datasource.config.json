@@ -1,0 +1,10 @@
+{
+  "name": "ElephantSQL",
+  "connector": "postgresql",
+  "url": "postgresql://prj2g5:g5sqlpass@78.94.190.157:5432/g5",
+  "host": "",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": ""
+}
